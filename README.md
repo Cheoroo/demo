@@ -20,3 +20,24 @@
 
 이후 도커 이미지로 만들어 결과물 배포하기
 
+## Requirements
+
+```bash
+Flask==2.2.2
+opencv-python==4.6.0.66
+mediapipe==0.9.0.1
+```
+
+### Install
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+### On terminal
+
+```bash
+python main.py
+```
